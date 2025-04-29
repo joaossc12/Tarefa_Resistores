@@ -16,9 +16,6 @@ Este projeto implementa um sistema de medição de resistores com Interface Huma
   - Percentual de erro  
   - Código de cores dos três anéis  
 - **Matriz de LEDs**: visualiza as faixas de cores  
-- **LED RGB**: indica tolerância de 5%  
-  - **Verde** = dentro da tolerância  
-  - **Vermelho** = fora da tolerância  
 
 ---
 
